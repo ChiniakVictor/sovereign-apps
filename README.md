@@ -7,7 +7,7 @@ Free Android and Windows apps made by Chiniak Victor, from [kodiakking.com](http
 | App | Version | Download |
 |---|---|---|
 | Sovereign Comms | 2.4 | [sovereign-comms-2.4.apk](https://github.com/ChiniakVictor/sovereign-apps/releases/download/sovereign-comms-android-v2.4/sovereign-comms-2.4.apk) |
-| Kodiak Maps | 1.5 | [kodiak-maps-1.5.apk](https://github.com/ChiniakVictor/sovereign-apps/releases/download/kodiak-maps-android-v1.5/kodiak-maps-1.5.apk) |
+| Kodiak Maps | 1.5.3 | [kodiak-maps-1.5.3.apk](https://github.com/ChiniakVictor/sovereign-apps/releases/download/kodiak-maps-android-v1.5.3/kodiak-maps-1.5.3.apk) |
 | Kodiak King | 1.2 | [kodiak-king-1.2.apk](https://github.com/ChiniakVictor/sovereign-apps/releases/download/kodiak-king-android-v1.2/kodiak-king-1.2.apk) |
 | Signal Scanner | 1.6 | [signal-scanner-1.6.apk](https://github.com/ChiniakVictor/sovereign-apps/releases/download/signal-scanner-android-v1.6/signal-scanner-1.6.apk) |
 | Momentum Scanner | 1.3 | [momentum-scanner-1.3.apk](https://github.com/ChiniakVictor/sovereign-apps/releases/download/momentum-scanner-android-v1.3/momentum-scanner-1.3.apk) |
