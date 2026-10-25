@@ -6,7 +6,7 @@ Free Android and Windows apps made by Chiniak Victor, from [kodiakking.com](http
 
 | App | Version | Download |
 |---|---|---|
-| Sovereign Comms | 2.4 | [sovereign-comms-2.4.apk](https://github.com/ChiniakVictor/sovereign-apps/releases/download/sovereign-comms-android-v2.4/sovereign-comms-2.4.apk) |
+| Sovereign Comms | 2.5.1 | [sovereign-comms-2.5.1.apk](https://github.com/ChiniakVictor/sovereign-apps/releases/download/sovereign-comms-android-v2.5.1/sovereign-comms-2.5.1.apk) |
 | Kodiak Maps | 1.5.3 | [kodiak-maps-1.5.3.apk](https://github.com/ChiniakVictor/sovereign-apps/releases/download/kodiak-maps-android-v1.5.3/kodiak-maps-1.5.3.apk) |
 | Kodiak King | 1.2 | [kodiak-king-1.2.apk](https://github.com/ChiniakVictor/sovereign-apps/releases/download/kodiak-king-android-v1.2/kodiak-king-1.2.apk) |
 | Signal Scanner | 1.6 | [signal-scanner-1.6.apk](https://github.com/ChiniakVictor/sovereign-apps/releases/download/signal-scanner-android-v1.6/signal-scanner-1.6.apk) |
@@ -20,7 +20,7 @@ Android 8.0 or newer (Kodiak King: Android 7.0 or newer). Download the .apk on y
 
 | App | Version | Download |
 |---|---|---|
-| Sovereign Comms for Windows | 1.2 | [sovereign-comms-windows-1.2.zip](https://github.com/ChiniakVictor/sovereign-apps/releases/download/sovereign-comms-windows-v1.2/sovereign-comms-windows-1.2.zip) |
+| Sovereign Comms for Windows | 1.3.2 | [sovereign-comms-windows-1.3.2.zip](https://github.com/ChiniakVictor/sovereign-apps/releases/download/sovereign-comms-windows-v1.3.2/sovereign-comms-windows-1.3.2.zip) |
 | Packet Monitor for Windows | 1.1 | [packet-monitor-windows-1.1.zip](https://github.com/ChiniakVictor/sovereign-apps/releases/download/packet-monitor-windows-v1.1/packet-monitor-windows-1.1.zip) |
 | Signal Scanner for Windows | 1.0 | [signal-scanner-windows-1.0.zip](https://github.com/ChiniakVictor/sovereign-apps/releases/download/signal-scanner-windows-v1.0/signal-scanner-windows-1.0.zip) |
 | Momentum Scanner for Windows | 1.0 | [momentum-scanner-windows-1.0.zip](https://github.com/ChiniakVictor/sovereign-apps/releases/download/momentum-scanner-windows-v1.0/momentum-scanner-windows-1.0.zip) |
