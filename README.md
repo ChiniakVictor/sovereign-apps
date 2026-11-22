@@ -9,7 +9,7 @@ Copyright © 2026 Sovereign Industries. All rights reserved. The apps include a 
 | App | Version | What it does | Download |
 |---|---|---|---|
 | Sovereign Comms | 2.5.2 | Encrypted location sharing and chat with partners, plus handheld radio support. | [sovereign-comms-2.5.2.apk](https://github.com/ChiniakVictor/sovereign-apps/releases/download/sovereign-comms-android-v2.5.2/sovereign-comms-2.5.2.apk) |
-| Kodiak Maps | 1.5.15 | Offline maps of Kodiak Island, with trails, fishing, harbor, military and other local pins. | [kodiak-maps-1.5.15.apk](https://github.com/ChiniakVictor/sovereign-apps/releases/download/kodiak-maps-android-v1.5.15/kodiak-maps-1.5.15.apk) |
+| Kodiak Maps | 1.7.0 | Offline maps of Kodiak Island, with trails, fishing, harbor, military, shipwreck and plane-wreck pins and other local pins. | [kodiak-maps-1.7.0.apk](https://github.com/ChiniakVictor/sovereign-apps/releases/download/kodiak-maps-android-v1.7.0/kodiak-maps-1.7.0.apk) |
 | Kodiak King | 1.2.1 | Opens kodiakking.com full screen in an app frame. | [kodiak-king-1.2.1.apk](https://github.com/ChiniakVictor/sovereign-apps/releases/download/kodiak-king-android-v1.2.1/kodiak-king-1.2.1.apk) |
 | Signal Scanner | 2.1.0 | Shows nearby Wi-Fi, Bluetooth, cell, GPS and tracker signals, with Drone Radar and Locate Signals views. | [signal-scanner-2.1.0.apk](https://github.com/ChiniakVictor/sovereign-apps/releases/download/signal-scanner-android-v2.1.0/signal-scanner-2.1.0.apk) |
 | Momentum Scanner | 1.3.1 | A stock momentum scanner. | [momentum-scanner-1.3.1.apk](https://github.com/ChiniakVictor/sovereign-apps/releases/download/momentum-scanner-android-v1.3.1/momentum-scanner-1.3.1.apk) |
